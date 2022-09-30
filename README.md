@@ -1,4 +1,4 @@
-# custom-microservices-project
+# custom-microservices-handler
 
 Simple microservices POC based on the Spring Cloud and Java 18, to try microservices architecture patterns and technologies.
 
